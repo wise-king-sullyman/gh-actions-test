@@ -1,6 +1,6 @@
 {
   "name": "@ausuliv/gh-actions-test",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Test package for GH actions",
   "main": "index.js",
   "scripts": {
