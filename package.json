@@ -19,5 +19,8 @@
   "homepage": "https://github.com/wise-king-sullyman/gh-actions-test#readme",
   "release": {
     "branches": "main"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
