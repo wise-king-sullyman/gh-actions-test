@@ -1,6 +1,4 @@
-export function test() {
-  console.log("test success!");
-}
+export const test = () => {};
 
 export const foo = () => {};
 
