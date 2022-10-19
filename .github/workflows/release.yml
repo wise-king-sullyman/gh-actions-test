@@ -7,7 +7,7 @@ jobs:
  build-deploy:
    runs-on: ubuntu-latest
    env:
-     GH_TOKEN: ${{ secrets.TODO }}
+     GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
      NPM_TOKEN: ${{ secrets.ANOTHER_TODO }}
    steps:
      - uses: actions/checkout@v2
