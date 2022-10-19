@@ -1,0 +1,23 @@
+{
+  "name": "gh-actions-test",
+  "version": "1.0.0",
+  "description": "Test package for GH actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "mkdir -p dist && cp index.js dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wise-king-sullyman/gh-actions-test.git"
+  },
+  "author": "Austin Sullivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wise-king-sullyman/gh-actions-test/issues"
+  },
+  "homepage": "https://github.com/wise-king-sullyman/gh-actions-test#readme",
+  "release": {
+    "branches": "main"
+  }
+}
