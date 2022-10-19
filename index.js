@@ -7,3 +7,6 @@ export function foo() {
 }
 
 export const bar = () => {};
+
+export const bash = () => {};
+
