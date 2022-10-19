@@ -1,6 +1,6 @@
 {
   "name": "@ausuliv/gh-actions-test",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Test package for GH actions",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,6 @@
   "homepage": "https://github.com/wise-king-sullyman/gh-actions-test#readme",
   "release": {
     "branches": "main"
-  }
+  },
+  "private": "false"
 }
