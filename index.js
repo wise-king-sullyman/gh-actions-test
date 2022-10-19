@@ -5,3 +5,5 @@ export function test() {
 export function foo() {
   console.log("BAR");
 }
+
+export const bar = () => {};
